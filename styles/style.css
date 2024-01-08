@@ -1,0 +1,82 @@
+/* Common part */
+h3 {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+
+
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 50px 140px;
+}
+
+/* .banner-class{
+    width: 100%;
+    height: 600px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    text-align: center;
+    background-image: url("../resources/Banner\ Image.png");   
+    background-color: black;
+} */
+.bannner-class {
+    height: 600px;
+    width: 100%;
+    background-image: url("../resources/Banner\ Image.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    color: white;
+
+}
+
+/* Discount section */
+
+.discount-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.discount-section h1 {
+    color: red;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.discount-section h4 {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.discount-section h3 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 0px;
+}
+
+.discount-section img{
+    height: 500px;
+    margin: 0px auto;
+}
+
+
+/*  */
