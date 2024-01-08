@@ -146,3 +146,24 @@ h4 {
     border-radius: 8px;
     margin-top: 20px;
 }
+.offer-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.best-offer-section{
+    width: 30%;
+}
+
+.image-section{
+    width: 30%;
+    border-radius: 55%;
+    border: 10px solid red;
+    padding: 20px;
+    text-align: center;
+}
+
+.offer-description{
+    width: 30%;
+
+}
