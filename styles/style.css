@@ -192,3 +192,6 @@ h4 {
     top: -665px;
     right: -450px;
 }
+.image-container img{
+    margin: 10px;
+}
