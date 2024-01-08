@@ -167,3 +167,28 @@ h4 {
     width: 30%;
 
 }
+
+.holiday-section{
+    text-align: center;
+}
+
+.relative-picture-section{
+    position: relative;
+}
+
+.child-box{
+    position: relative;
+    top: 200px;
+    left: -300px;
+}
+.child-girl{
+    position: relative;
+    top: -665px;
+    right: -290px;
+}
+
+.child-discount{
+    position: relative;
+    top: -665px;
+    right: -450px;
+}
